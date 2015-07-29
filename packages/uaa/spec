@@ -1,8 +1,0 @@
----
-name: uaa
-dependencies:
-- ruby-2.1.6
-files:
-- uaa/**/*
-- openjdk/**/*
-- cf-registrar-bundle-for-identity/**/*
